@@ -1,3 +1,5 @@
 # express-simple-etgy9w
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/express-simple-etgy9w)
+
+
+https://mtproto-core.js.org/docs/

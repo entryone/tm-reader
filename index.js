@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const port = 3010;
 const path = require('path');
+const path = require('path');
+const MTProto = require('@mtproto/core');
 
 app.use(express.static('static'));
 
