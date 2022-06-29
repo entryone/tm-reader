@@ -5,6 +5,9 @@ const path = require('path');
 const path = require('path');
 const MTProto = require('@mtproto/core');
 
+const api_id = '19841528';
+const api_hash = '266be745bc0ed86ff5b5226488cff50a';
+
 app.use(express.static('static'));
 
 app.get('/', (req, res) => {
